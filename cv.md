@@ -51,6 +51,5 @@ public class AppEventsCommands {
 | 2 | Moscow Institute of Economics and Finance| Economist                  |
 | 3 | Sberbank Corporate University            | Java developer             |
 | 4 | Otus online education                    | Spring Framework developer |
-<br>
 
 ### English language: А1
