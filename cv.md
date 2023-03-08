@@ -52,4 +52,5 @@ public class AppEventsCommands {
 | 3 | Sberbank Corporate University            | Java developer             |
 | 4 | Otus online education                    | Spring Framework developer |
 <br>
+
 ### English language: А1
