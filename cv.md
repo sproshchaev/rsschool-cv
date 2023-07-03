@@ -16,7 +16,6 @@
 ```
 Java Developer | Spring Framework Developer 
 ``` 
-<br><br>
 
 ### Skills & Technology stack
 
