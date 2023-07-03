@@ -24,7 +24,7 @@ Java Developer | Spring Framework Developer
 **SQL:** PostgreSQL, Oracle, MySQL, MS SQL, H2, InterBase <br>
 **NoSQL:** MongoDB <br>
 **Message broker:** RabbitMQ <br>
-**Libraries, Tools:** Maven, Hibernate, Swing, JavaServer Pages, Thymeleaf, jQuery, Apache POI, Docker, Liquibase, Flyway, Mongock, Zuul, Hystrix, Resilience4j, OpenFeign, REST, gRPC <br><br>
+**Libraries, Tools:** Maven, Hibernate, Swing, JavaServer Pages, Thymeleaf, jQuery, Apache POI, Docker, Liquibase, Flyway, Mongock, Zuul, Hystrix, Resilience4j, OpenFeign, REST, gRPC
 
 ### Code example
 
