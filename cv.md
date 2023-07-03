@@ -13,7 +13,10 @@
 
 ### Information about me
 
-Java Developer | Spring Framework Developer <br><br>
+```
+Java Developer | Spring Framework Developer 
+``` 
+<br><br>
 
 ### Skills & Technology stack
 
