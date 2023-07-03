@@ -52,4 +52,15 @@ public class AppEventsCommands {
 | 3 | Sberbank Corporate University            | Java developer             |
 | 4 | Otus online education                    | Spring Framework developer |
 
+<table border="1">
+   <tr>
+    <th>Ячейка 1</th>
+    <th>Ячейка 2</th>
+   </tr>
+   <tr>
+    <td>Ячейка 3</td>
+    <td>Ячейка 4</td>
+  </tr>
+ </table>
+
 ### English language: А1
