@@ -9,7 +9,7 @@
 **Discord:** sproshchaev <br>
 
 **Linkedin:** https://www.linkedin.com/in/sproshchaev/ <br>
-**Facebook:** https://www.facebook.com/Sergey.Proshchaev <br><br>
+**Facebook:** https://www.facebook.com/Sergey.Proshchaev
 
 ### Information about me
 
