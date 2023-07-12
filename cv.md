@@ -45,11 +45,32 @@ public class AppEventsCommands {
    - [javascript-jquery](https://github.com/sproshchaev/javascript-jquery "Educational project")
 
 ### Education
-| № | Educational institute                    |Specialty                   |
-| - |:-----------------------------------------|:--------------------------:|
-| 1 | Ufa State Aviation Technical University  | Engineer                   |
-| 2 | Moscow Institute of Economics and Finance| Economist                  |
-| 3 | Sberbank Corporate University            | Java developer             |
-| 4 | Otus online education                    | Spring Framework developer |
-
+<table>
+   <tr>
+     <th>№</th>
+     <th>Educational institute</th>
+     <th>Specialty</th>
+   </tr>
+   <tr>
+     <td>1</td>
+     <td>Ufa State Aviation Technical University</td>
+     <td>Engineer</td>
+   </tr>
+   <tr>
+     <td>2</td>
+     <td>Moscow Institute of Economics and Finance</td>
+     <td>Economist</td>
+   </tr>
+   <tr>
+     <td>3</td>
+     <td>Sberbank Corporate University</td>
+     <td>Java developer</td>
+   </tr>
+   <tr>
+     <td>4</td>
+     <td>Otus online education</td>
+     <td>Spring Framework developer</td>
+   </tr>
+ </table>
+ 
 ### English language: А1
