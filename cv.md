@@ -1,8 +1,8 @@
-# Sergey Proshchaev
+<h1>Sergey Proshchaev</h1>
 
 <img src="https://avatars.githubusercontent.com/u/95690553?s=400&u=92a39f7bc47a4ba4d7ff01f8abec8617c484c79e&v=4" alt="Sergey Proshchaev">
 
-### My contacts
+<h2>My contacts</h2>
 
 **WhatsApp, Viber, Telegram:** +7 (922) 00-88-253 <br>
 **e-mail:** sproshchaev@gmail.com <br>
@@ -11,11 +11,11 @@
 **Linkedin:** https://www.linkedin.com/in/sproshchaev/ <br>
 **Facebook:** https://www.facebook.com/Sergey.Proshchaev <br><br>
 
-### Information about me
+<h2>Information about me</h2>
 
 Java Developer | Spring Framework Developer <br><br>
 
-### Skills & Technology stack
+<h2>Skills & Technology stack</h2>
 
 **Languages:** Java, JavaScript, Delphi, VBA, HTML <br>
 **Spring Framework:** Spring boot, Spring Shell, Spring Data JDBC, Spring Data JPA, Spring Data MongoDB, Spring Web, Spring Reactive Web, Spring Security, Spring Batch, Spring Integration, Spring Boot Actuator, Spring Data REST, Spring AOP, Spring Cloud Config, Spring Cloud Netflix, Spring Cloud OpenFeign, Spring Cloud Discovery <br>
@@ -24,7 +24,7 @@ Java Developer | Spring Framework Developer <br><br>
 **Message broker:** RabbitMQ <br>
 **Libraries, Tools:** Maven, Hibernate, Swing, JavaServer Pages, Thymeleaf, jQuery, Apache POI, Docker, Liquibase, Flyway, Mongock, Zuul, Hystrix, Resilience4j, OpenFeign, REST, gRPC <br><br>
 
-### Code example
+<h2>Code example</h2>
 
 ```Java
 @ShellComponent
@@ -40,7 +40,7 @@ public class AppEventsCommands {
 }
 ```
 
-### Experience
+<h2>Experience</h2>
 
 1. Job: Oil company «Surgutneftegas», Java Developer <br>
 2. Educational project: <br>
@@ -48,7 +48,7 @@ public class AppEventsCommands {
    - [bank-financial-processing-system-pos](https://github.com/sproshchaev/bank-financial-processing-system-pos "Educational project") <br>
    - [javascript-jquery](https://github.com/sproshchaev/javascript-jquery "Educational project")
 
-### Education
+<h2>Education</h2>
 
 <table>
    <tr>
@@ -78,7 +78,7 @@ public class AppEventsCommands {
    </tr>
  </table>
 
-### English language: А1
+<h2>English language: А1</h2>
 
 <footer>
   <img src="img/github-logo.jpg" width="100" height="50"  alt="RS School">
