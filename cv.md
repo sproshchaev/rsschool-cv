@@ -13,7 +13,9 @@
 
 <h2>Information about me</h2>
 
-Java Developer | Spring Framework Developer <br><br>
+<pre>
+Java Developer | Spring Framework Developer 
+</pre>
 
 <h2>Skills & Technology stack</h2>
 
@@ -26,7 +28,7 @@ Java Developer | Spring Framework Developer <br><br>
 
 <h2>Code example</h2>
 
-```Java
+<pre>
 @ShellComponent
 public class AppEventsCommands {
     @ShellMethod(value = "Start console H2", key = {"c", "console"})
@@ -38,7 +40,7 @@ public class AppEventsCommands {
         }
     }
 }
-```
+</pre>
 
 <h2>Experience</h2>
 
