@@ -1,1 +1,0 @@
-https://sproshchaev.github.io/rsschool-cv/
