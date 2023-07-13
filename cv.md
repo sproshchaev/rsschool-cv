@@ -14,14 +14,15 @@
   </header>
 
   <main>
-    <h2>My contacts</h2>
+   <h2>My contacts</h2>
 
-  **WhatsApp, Viber, Telegram:** +7 (922) 00-88-253 <br>
-  **e-mail:** sproshchaev@gmail.com <br>
-  **Discord:** sproshchaev <br>
-
-  **Linkedin:** https://www.linkedin.com/in/sproshchaev/ <br>
-  **Facebook:** https://www.facebook.com/Sergey.Proshchaev <br><br>
+   <ul id="contacts">
+     <li><span class="text-bold">WhatsApp, Viber, Telegram: +7 (922) 00-88-253</li>
+     <li><span class="text-bold">e-mail: sproshchaev@gmail.com</li>
+     <li><span class="text-bold">Discord: sproshchaev</li>
+     <li><span class="text-bold">Linkedin: <a href="https://www.linkedin.com/in/sproshchaev/">www.linkedin.com/in/sproshchaev</a></li>
+     <li><span class="text-bold">Facebook:  <a href="https://www.facebook.com/Sergey.Proshchaev">www.facebook.com/Sergey.Proshchaev</a></li>
+   </ul>
 
   <h2>Information about me</h2>
 
