@@ -16,12 +16,12 @@
   <main>
   <h2>My contacts</h2>
 
-  <ul id="contacts">
-    <li><span class="text-bold">WhatsApp, Viber, Telegram: +7 (922) 00-88-253</li>
-    <li><span class="text-bold">e-mail: sproshchaev@gmail.com</li>
-    <li><span class="text-bold">Discord: sproshchaev</li>
-    <li><span class="text-bold">Linkedin: <a href="https://www.linkedin.com/in/sproshchaev/">www.linkedin.com/in/sproshchaev</a></li>
-    <li><span class="text-bold">Facebook: <a href="https://www.facebook.com/Sergey.Proshchaev">www.facebook.com/Sergey.Proshchaev</a></li>
+  <ul>
+    <li>WhatsApp, Viber, Telegram: +7 (922) 00-88-253</li>
+    <li>e-mail: sproshchaev@gmail.com</li>
+    <li>Discord: sproshchaev</li>
+    <li>Linkedin: <a href="https://www.linkedin.com/in/sproshchaev/">www.linkedin.com/in/sproshchaev</a></li>
+    <li>Facebook: <a href="https://www.facebook.com/Sergey.Proshchaev">www.facebook.com/Sergey.Proshchaev</a></li>
   </ul>
 
   <h2>Information about me</h2>
@@ -34,10 +34,10 @@
 
   **Languages:** Java, JavaScript, Delphi, VBA, HTML <br>
   **Spring Framework:** Spring boot, Spring Shell, Spring Data JDBC, Spring Data JPA, Spring Data MongoDB, Spring Web, Spring Reactive Web, Spring Security, Spring Batch, Spring Integration, Spring Boot Actuator, Spring Data REST, Spring AOP, Spring Cloud Config, Spring Cloud Netflix, Spring Cloud OpenFeign, Spring Cloud Discovery <br>
-    **SQL:** PostgreSQL, Oracle, MySQL, MS SQL, H2, InterBase <br>
-    **NoSQL:** MongoDB <br>
-    **Message broker:** RabbitMQ <br>
-    **Libraries, Tools:** Maven, Hibernate, Swing, JavaServer Pages, Thymeleaf, jQuery, Apache POI, Docker, Liquibase, Flyway, Mongock, Zuul, Hystrix, Resilience4j, OpenFeign, REST, gRPC <br><br>
+  **SQL:** PostgreSQL, Oracle, MySQL, MS SQL, H2, InterBase <br>
+  **NoSQL:** MongoDB <br>
+  **Message broker:** RabbitMQ <br>
+  **Libraries, Tools:** Maven, Hibernate, Swing, JavaServer Pages, Thymeleaf, jQuery, Apache POI, Docker, Liquibase, Flyway, Mongock, Zuul, Hystrix, Resilience4j, OpenFeign, REST, gRPC <br><br>
 
   <h2>Code example</h2>
 
