@@ -52,9 +52,9 @@
 
   1. Job: Oil company «Surgutneftegas», Java Developer <br>
   2. Educational project: <br>
-       - [bank-payment-processing-services](https://github.com/sproshchaev/bank-payment-processing-services "Educational project") <br>
-       - [bank-financial-processing-system-pos](https://github.com/sproshchaev/bank-financial-processing-system-pos "Educational project") <br>
-       - [javascript-jquery](https://github.com/sproshchaev/javascript-jquery "Educational project")
+    - [bank-payment-processing-services](https://github.com/sproshchaev/bank-payment-processing-services "Educational project") <br>
+    - [bank-financial-processing-system-pos](https://github.com/sproshchaev/bank-financial-processing-system-pos "Educational project") <br>
+    - [javascript-jquery](https://github.com/sproshchaev/javascript-jquery "Educational project")
 
   <h2>Education</h2>
 
