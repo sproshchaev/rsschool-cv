@@ -1,90 +1,104 @@
-<h2>Sergey Proshchaev</h2>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Sergey Proshchaev</title>
+</head>
 
-<img src="https://avatars.githubusercontent.com/u/95690553?s=400&u=92a39f7bc47a4ba4d7ff01f8abec8617c484c79e&v=4" alt="Sergey Proshchaev">
+<body>
+  <header>
+  <h2>Sergey Proshchaev</h2>
 
-<h2>My contacts</h2>
+  <img src="https://avatars.githubusercontent.com/u/95690553?s=400&u=92a39f7bc47a4ba4d7ff01f8abec8617c484c79e&v=4" alt="Sergey Proshchaev">
+  </header>
 
-**WhatsApp, Viber, Telegram:** +7 (922) 00-88-253 <br>
-**e-mail:** sproshchaev@gmail.com <br>
-**Discord:** sproshchaev <br>
+  <main>
+    <h2>My contacts</h2>
 
-**Linkedin:** https://www.linkedin.com/in/sproshchaev/ <br>
-**Facebook:** https://www.facebook.com/Sergey.Proshchaev <br><br>
+  **WhatsApp, Viber, Telegram:** +7 (922) 00-88-253 <br>
+  **e-mail:** sproshchaev@gmail.com <br>
+  **Discord:** sproshchaev <br>
 
-<h2>Information about me</h2>
+  **Linkedin:** https://www.linkedin.com/in/sproshchaev/ <br>
+  **Facebook:** https://www.facebook.com/Sergey.Proshchaev <br><br>
 
-<pre>
-Java Developer | Spring Framework Developer 
-</pre>
+  <h2>Information about me</h2>
 
-<h2>Skills & Technology stack</h2>
+  <pre>
+    Java Developer | Spring Framework Developer
+  </pre>
 
-**Languages:** Java, JavaScript, Delphi, VBA, HTML <br>
-**Spring Framework:** Spring boot, Spring Shell, Spring Data JDBC, Spring Data JPA, Spring Data MongoDB, Spring Web, Spring Reactive Web, Spring Security, Spring Batch, Spring Integration, Spring Boot Actuator, Spring Data REST, Spring AOP, Spring Cloud Config, Spring Cloud Netflix, Spring Cloud OpenFeign, Spring Cloud Discovery <br>
-**SQL:** PostgreSQL, Oracle, MySQL, MS SQL, H2, InterBase <br>
-**NoSQL:** MongoDB <br>
-**Message broker:** RabbitMQ <br>
-**Libraries, Tools:** Maven, Hibernate, Swing, JavaServer Pages, Thymeleaf, jQuery, Apache POI, Docker, Liquibase, Flyway, Mongock, Zuul, Hystrix, Resilience4j, OpenFeign, REST, gRPC <br><br>
+  <h2>Skills & Technology stack</h2>
 
-<h2>Code example</h2>
+  **Languages:** Java, JavaScript, Delphi, VBA, HTML <br>
+  **Spring Framework:** Spring boot, Spring Shell, Spring Data JDBC, Spring Data JPA, Spring Data MongoDB, Spring Web, Spring Reactive Web, Spring Security, Spring Batch, Spring Integration, Spring Boot Actuator, Spring Data REST, Spring AOP, Spring Cloud Config, Spring Cloud Netflix, Spring Cloud OpenFeign, Spring Cloud Discovery <br>
+    **SQL:** PostgreSQL, Oracle, MySQL, MS SQL, H2, InterBase <br>
+    **NoSQL:** MongoDB <br>
+    **Message broker:** RabbitMQ <br>
+    **Libraries, Tools:** Maven, Hibernate, Swing, JavaServer Pages, Thymeleaf, jQuery, Apache POI, Docker, Liquibase, Flyway, Mongock, Zuul, Hystrix, Resilience4j, OpenFeign, REST, gRPC <br><br>
 
-<pre>
-@ShellComponent
-public class AppEventsCommands {
-    @ShellMethod(value = "Start console H2", key = {"c", "console"})
-    public void startConsoleH2() {
-        try {
-            Console.main();
-        } catch (SQLException e) {
-            throw new RuntimeException(e);
-        }
-    }
-}
-</pre>
+  <h2>Code example</h2>
 
-<h2>Experience</h2>
+  <pre>
+      @ShellComponent
+      public class AppEventsCommands {
+          @ShellMethod(value = "Start console H2", key = {"c", "console"})
+          public void startConsoleH2() {
+              try {
+                  Console.main();
+              } catch (SQLException e) {
+                  throw new RuntimeException(e);
+              }
+          }
+      }
+  </pre>
 
-1. Job: Oil company «Surgutneftegas», Java Developer <br>
-2. Educational project: <br>
-   - [bank-payment-processing-services](https://github.com/sproshchaev/bank-payment-processing-services "Educational project") <br>
-   - [bank-financial-processing-system-pos](https://github.com/sproshchaev/bank-financial-processing-system-pos "Educational project") <br>
-   - [javascript-jquery](https://github.com/sproshchaev/javascript-jquery "Educational project")
+  <h2>Experience</h2>
 
-<h2>Education</h2>
+  1. Job: Oil company «Surgutneftegas», Java Developer <br>
+  2. Educational project: <br>
+       - [bank-payment-processing-services](https://github.com/sproshchaev/bank-payment-processing-services "Educational project") <br>
+       - [bank-financial-processing-system-pos](https://github.com/sproshchaev/bank-financial-processing-system-pos "Educational project") <br>
+       - [javascript-jquery](https://github.com/sproshchaev/javascript-jquery "Educational project")
 
-<table>
-   <tr>
-     <th>№</th>
-     <th>Educational institute</th>
-     <th>Specialty</th>
-   </tr>
-   <tr>
-     <td>1</td>
-     <td>Ufa State Aviation Technical University</td>
-     <td>Engineer</td>
-   </tr>
-   <tr>
-     <td>2</td>
-     <td>Moscow Institute of Economics and Finance</td>
-     <td>Economist</td>
-   </tr>
-   <tr>
-     <td>3</td>
-     <td>Sberbank Corporate University</td>
-     <td>Java developer</td>
-   </tr>
-   <tr>
-     <td>4</td>
-     <td>Otus online education</td>
-     <td>Spring Framework developer</td>
-   </tr>
- </table>
+  <h2>Education</h2>
 
-<h2>English language: А1</h2>
+  <table>
+       <tr>
+         <th>№</th>
+         <th>Educational institute</th>
+         <th>Specialty</th>
+       </tr>
+       <tr>
+         <td>1</td>
+         <td>Ufa State Aviation Technical University</td>
+         <td>Engineer</td>
+       </tr>
+       <tr>
+         <td>2</td>
+         <td>Moscow Institute of Economics and Finance</td>
+         <td>Economist</td>
+       </tr>
+       <tr>
+         <td>3</td>
+         <td>Sberbank Corporate University</td>
+         <td>Java developer</td>
+       </tr>
+       <tr>
+         <td>4</td>
+         <td>Otus online education</td>
+         <td>Spring Framework developer</td>
+       </tr>
+  </table>
 
-<footer>
-  <img src="img/github-logo.jpg" width="100" height="50"  alt="RS School">
-  <a href="https://github.com/sproshchaev">2023 My GitHub</a>
-  <img src="img/rs_school_js.svg" width="50" height="100"  alt="RS School">
-  <a href="https://rs.school/js-stage0/">RS School</a>
-</footer>
+  <h2>English language: А1</h2>
+  </main>
+  <footer>
+    <img src="img/github-logo.jpg" width="100" height="50"  alt="RS School">
+    <a href="https://github.com/sproshchaev">2023 My GitHub</a>
+    <img src="img/rs_school_js.svg" width="50" height="100"  alt="RS School">
+    <a href="https://rs.school/js-stage0/">RS School</a>
+  </footer>
+</body>
+</html>
