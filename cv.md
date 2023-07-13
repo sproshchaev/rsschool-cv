@@ -32,12 +32,14 @@
 
   <h2>Skills & Technology stack</h2>
 
-  **Languages:** Java, JavaScript, Delphi, VBA, HTML <br>
-  **Spring Framework:** Spring boot, Spring Shell, Spring Data JDBC, Spring Data JPA, Spring Data MongoDB, Spring Web, Spring Reactive Web, Spring Security, Spring Batch, Spring Integration, Spring Boot Actuator, Spring Data REST, Spring AOP, Spring Cloud Config, Spring Cloud Netflix, Spring Cloud OpenFeign, Spring Cloud Discovery <br>
-  **SQL:** PostgreSQL, Oracle, MySQL, MS SQL, H2, InterBase <br>
-  **NoSQL:** MongoDB <br>
-  **Message broker:** RabbitMQ <br>
-  **Libraries, Tools:** Maven, Hibernate, Swing, JavaServer Pages, Thymeleaf, jQuery, Apache POI, Docker, Liquibase, Flyway, Mongock, Zuul, Hystrix, Resilience4j, OpenFeign, REST, gRPC <br><br>
+  <ul>
+    <li>Languages: Java, JavaScript, Delphi, VBA, HTML</li>
+    <li>Spring Framework: Spring boot, Spring Shell, Spring Data JDBC, Spring Data JPA, Spring Data MongoDB, Spring Web, Spring Reactive Web, Spring Security, Spring Batch, Spring Integration, Spring Boot Actuator, Spring Data REST, Spring AOP, Spring Cloud Config, Spring Cloud Netflix, Spring Cloud OpenFeign, Spring Cloud Discovery</li>
+    <li>SQL: PostgreSQL, Oracle, MySQL, MS SQL, H2, InterBase</li>
+    <li>NoSQL: MongoDB</li>
+    <li>Message broker: RabbitMQ</li>
+    <li>Libraries, Tools: Maven, Hibernate, Swing, JavaServer Pages, Thymeleaf, jQuery, Apache POI, Docker, Liquibase, Flyway, Mongock, Zuul, Hystrix, Resilience4j, OpenFeign, REST, gRPC</li>
+  </ul>
 
   <h2>Code example</h2>
 
