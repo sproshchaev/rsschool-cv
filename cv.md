@@ -1,12 +1,3 @@
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
-  <title>Sergey Proshchaev</title>
-</head>
-
-<body>
   <header>
   <h2>Sergey Proshchaev</h2>
 
@@ -103,5 +94,3 @@
     <img src="img/rs_school_js.svg" width="50" height="100"  alt="RS School">
     <a href="https://rs.school/js-stage0/">RS School</a>
   </footer>
-</body>
-</html>
