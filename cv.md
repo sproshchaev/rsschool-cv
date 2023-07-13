@@ -1,4 +1,4 @@
-<h1>Sergey Proshchaev</h1>
+<h2>Sergey Proshchaev</h2>
 
 <img src="https://avatars.githubusercontent.com/u/95690553?s=400&u=92a39f7bc47a4ba4d7ff01f8abec8617c484c79e&v=4" alt="Sergey Proshchaev">
 
