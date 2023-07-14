@@ -74,6 +74,17 @@ table td {
     padding: 9px;
 }
 
-.ul-nav {
+.ul-nav li {
     display: inline-block;
+}
+
+.circle-black {
+    display: inline-block;
+    width: 9px;
+    height: 9px;
+    background-color: #000000;
+    border-radius: 50%;
+    margin-right: 6px;
+    margin-left: 6px;
+    margin-bottom: 1px;
 }
