@@ -22,3 +22,23 @@ h2 {
     display: inline-block;
     padding: 20px 0;
 }
+
+.my-github-link {
+    color: blue;
+}
+
+.rs-school-link {
+    color: blue;
+}
+
+.github-logo {
+    width: 100px;
+    height: 50px;
+}
+
+.rs-school-logo {
+    width: 50px;
+    height: 100px;
+}
+
+
